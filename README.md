@@ -4,6 +4,6 @@
 
 ### 使用Iframe
 
-### window快照+diff
+### window快照
 
 ### 使用Proxy
