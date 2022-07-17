@@ -1,0 +1,22 @@
+{
+  "name": "js-sandbox-exampe",
+  "version": "1.0.0",
+  "description": "## 简易实现js-sandbox的三种思路",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheScenery/js-sandbox-exampe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheScenery/js-sandbox-exampe/issues"
+  },
+  "homepage": "https://github.com/TheScenery/js-sandbox-exampe#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
